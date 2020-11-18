@@ -3,23 +3,23 @@
 CNN + Annoy
 
 **Convolution Neural Network**
-ImageNet Classification with Deep Convolutional Neural Networks
+ImageNet Classification with Deep Convolutional Neural Networks   
 https://proceedings.neurips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html
 
-**Approximate Neareat Neighbors Oh Yeah**
+**Approximate Neareat Neighbors Oh Yeah**   
 https://github.com/spotify/annoy
 
 **FastAI**
-Deep learning Framework 
+Deep learning Framework   
 https://github.com/fastai/fastai
 
 
 ## Deep learning for similar image search
 
 **Resnet** 
-Neural network
-https://arxiv.org/pdf/1512.03385.pdf
-https://arxiv.org/pdf/1603.05027.pdf
+Neural network   
+https://arxiv.org/pdf/1512.03385.pdf   
+https://arxiv.org/pdf/1603.05027.pdf   
 
 ## Making model
 |dataset|image count|
